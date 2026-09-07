@@ -17,7 +17,7 @@
 | write() | To write something with the pencil |
 | erase() | Erase something with the pencil |
 ## Class Diagram
-![Class Diagram](classDiagram.png)
+![Class Diagram](Pencil.png)
 ## Design Explanation
 ### Why did you choose this class?
 - I chose the pencil because it is the most simple and used object in a school.
