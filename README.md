@@ -12,4 +12,4 @@
 
 # [Click here to view my oop activity](https://github.com/mkssaltorio-stack/9siliconcs3/blob/main/q1/ila_oop.md)
 
-# [Click here to view my oopACT activity](https://github.com/mkssaltorio-stack/9siliconcs3/blob/main/q1/classObjectUml.md)
+# [Click here to view my oopACT activity](https://github.com/mkssaltorio-stack/9siliconcs3/blob/main/q1/MyOOPseedSystem/classObjectUml.md)
