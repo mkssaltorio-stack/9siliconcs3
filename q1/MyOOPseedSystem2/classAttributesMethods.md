@@ -12,7 +12,7 @@ Link to my previous activity:
 | brand | String | public | The brand can be accessed to identify the pencil. |
 | isSharpened | Boolean | private | It should be protected so it can only be changed through the appropriate method. |
 ## Updated UML Class Diagram
-![Class Diagram](images/classDiagramSG5.png)
+![Class Diagram](Pencil.png)
 ## Python Implementation
 
 [View Python Source](classImplementation.py)
