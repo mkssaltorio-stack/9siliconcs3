@@ -7,10 +7,10 @@ Link to my previous activity:
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
 |---|---|---|---|
-| color | String | private | Prevents the color from being changed directly. |
-| length | Integer | private | Keeps the pencil's length protected from direct changes. |
-| brand | String | private | Keeps the pencil's brand information protected. |
-| isSharpened | Boolean | private | Keeps track of whether the pencil is sharpened. |
+| color | String | public | The color can be accessed and changed when needed. |
+| length | Integer | public | The length can be accessed to know how long the pencil is. |
+| brand | String | public | The brand can be accessed to identify the pencil. |
+| isSharpened | Boolean | private | It should be protected so it can only be changed through the appropriate method. |
 ## Updated UML Class Diagram
 ![Class Diagram](images/classDiagramSG5.png)
 ## Python Implementation
