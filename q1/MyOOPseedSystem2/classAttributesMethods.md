@@ -22,10 +22,13 @@ Link to my previous activity:
 ![Object Diagram](images/objectDiagram.png)
 ## Analysis
 ### Why did you make your chosen attribute private?
-- 
+- I made isSharpened private because it keeps the pencil's sharpened state protected. If another part of the program changed it directly, the value could become incorrect. Using a method to change it makes the object easier to control.
+
 ### Which method changes the state of your object?
-- 
+- The sharpen() method changes the state of the pencil. It changes the isSharpened attribute from false to true. This shows that the method can safely modify the private attribute.
+
 ### How did your two objects demonstrate that instances are independent?
-- 
+- I created two different Pencil objects with different values. When I called sharpen() on the first pencil, only its isSharpened value changed. The second pencil kept its original state, showing that the objects are independent.
+
 ### What is the difference between your class diagram and your object diagram?
-- 
+- The class diagram shows the blueprint of the Pencil class, including its attributes, data types, visibility, and methods. The object diagram shows the actual Pencil objects created from that class. It contains the specific values of each object's attributes after the program runs.
