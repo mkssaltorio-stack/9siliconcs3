@@ -14,4 +14,4 @@
 
 ### [Click here to view my oopACT activity](https://github.com/mkssaltorio-stack/9siliconcs3/blob/main/q1/MyOOPseedSystem/classObjectUml.md)
 
-### [Click here to view my oopACT activity](https://github.com/mkssaltorio-stack/9siliconcs3/blob/main/q1/MyOOPseedSystem2/classAttributesMethods.md)
+### [Click here to view my oopACT2 activity](https://github.com/mkssaltorio-stack/9siliconcs3/blob/main/q1/MyOOPseedSystem2/classAttributesMethods.md)
