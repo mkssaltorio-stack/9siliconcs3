@@ -12,9 +12,9 @@ Description: This class represents an object used to store school supplies like:
 Relationship: Storage
 Explanation: The pencil case can store the pencil inside it
 ## Multiplicity
-nigger
-Multiplicity:
-Explanation:
+
+Multiplicity: Many to One
+Explanation: Because you can put an infinite amount of pencil depending on the size of the pencil case
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
 ## Python Implementation
